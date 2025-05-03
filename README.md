@@ -23,7 +23,9 @@ Information Technology Student @ St.Joseph's College of Engineering
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Benita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benita-it&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Benita's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benita-it&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Benita_T?theme=dark&font=Chenla&ext=heatmap)
 
