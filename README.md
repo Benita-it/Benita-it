@@ -14,10 +14,6 @@ Information Technology Student @ St.Joseph's College of Engineering
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
-
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
-
 ![Benita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benita-it&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Benita's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benita-it&theme=dark&show_icons=true&hide_border=true&layout=compact)
