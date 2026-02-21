@@ -41,32 +41,16 @@
 ---
 
 ### 🧠 Skills
-- **Programming:** Java, Python, C
-- **Web Development:** HTML, CSS, JavaScript, MERN Stack
-- **AI & ML:** Python, Machine Learning Basics, Model Training, Data Handling
-- **Databases:** MySQL, MongoDB
-- **Core CS:** Data Structures & Algorithms, OOPs, DBMS
 
----
-
-### 👩‍💻 I Code In
-<p align="left">
-  <img src="https://img.icons8.com/color/48/python.png"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png"/>
-</p>
-
----
-
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-
+| **Area**            | **Tools / Tech** |
+|---------------------|------------------|
+| **Programming**     | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Frontend**        | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Backend**         | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Database**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **AI & ML**         | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange) ![Python](https://img.shields.io/badge/Python%20for%20ML-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Core CS**         | ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-ED8B00?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-4B8BBE?style=flat-square) |
+| **Tools**           | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 ---
 
 ### 🧩 LeetCode Progress
