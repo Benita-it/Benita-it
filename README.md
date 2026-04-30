@@ -4,39 +4,35 @@
 
 <h3 align="center">Information Technology Student | Full-Stack & AI Enthusiast</h3>
 
-<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Benita-it&label=Profile+Views&color=00BFFF&style=for-the-badge"/>
+</p>
 
----
-
-### 👩‍💻 About Me
-- 🎓 **IT Student** at *St. Joseph’s College of Engineering*
-- 🔭 Passionate about building **scalable web apps & AI-powered solutions**
-- 🌱 Currently mastering **DSA in Java** and **MERN Stack**
-- 🤖 Hands-on experience with **AI & Machine Learning using Python**
-- 💡 Love converting ideas into **real-world applications**
-- 🚀 Aspiring **Full Stack Developer with AI expertise**
-
----
-
-### 🌐 Social Presence
-
-<p align="left">
+<p align="center">
   <a href="https://benita-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/benita-thomas-15802530a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/Benita-it">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://leetcode.com/Benita_T">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
+---
+
+<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+
+## 👩‍💻 About Me
+- 🎓 IT Student at *St. Joseph’s College of Engineering*  
+- 🔭 Passionate about **Full Stack & AI Development**  
+- 🌱 Currently learning **MERN + DSA in Java**  
+- 🤖 Exploring **AI/ML applications using Python**  
+- 🚀 Aspiring to build **real-world impactful solutions**
 
 ---
 
@@ -51,20 +47,56 @@
 | **AI & ML**         | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange) ![Python](https://img.shields.io/badge/Python%20for%20ML-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Core CS**         | ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-ED8B00?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-4B8BBE?style=flat-square) |
 | **Tools**           | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
 ---
 
-### 🧩 LeetCode Progress
+## 🚀 Featured Projects
+
+- **Health Assistant Chatbot**  
+  AI-based chatbot built using Streamlit for health guidance  
+
+- **Netflix Portfolio UI**  
+  Frontend UI project inspired by streaming platforms  
+
+- **LeetCode Solutions**  
+  Daily DSA practice and problem solving in Java  
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Benita_T?theme=dark&font=Chenla&ext=heatmap"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Benita-it&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benita-it&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
+
+
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benita-it&bg_color=0a0a0a&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Benita-it&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benita-it&bg_color=0a0a0a&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Benita_T?theme=dark&ext=heatmap"/>
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <i>"First solve the problem, then write the code."</i>
+</p>
