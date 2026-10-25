@@ -52,7 +52,7 @@
 
 ## 🚀 Featured Projects
 
-- **SafeGuard AI**
+- **SafeGuard AI**  
   A Violence Detection System in Elderly Care Facilities
 
 - **ChatEase**  
