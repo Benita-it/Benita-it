@@ -52,11 +52,11 @@
 
 ## 🚀 Featured Projects
 
-- **Health Assistant Chatbot**  
-  AI-based chatbot built using Streamlit for health guidance  
+- **SafeGuard AI**
+  A Violence Detection System in Elderly Care Facilities
 
-- **Netflix Portfolio UI**  
-  Frontend UI project inspired by streaming platforms  
+- **ChatEase**  
+  A Privacy-First Local LLM Chatbot
 
 - **LeetCode Solutions**  
   Daily DSA practice and problem solving in Java  
