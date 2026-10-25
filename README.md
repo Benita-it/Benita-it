@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://benita-portfolio.vercel.app/">
+  <a href="https://portfolioupdated-blue.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/benita-thomas-15802530a">
